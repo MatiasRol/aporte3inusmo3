@@ -8,6 +8,9 @@
     "scheme": "aporte3inusmo3",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "developmentClient": {
+      "silentLaunch": true
+    },
     "ios": {
       "supportsTablet": true
     },
